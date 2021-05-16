@@ -1,3 +1,4 @@
+// imports
 importScripts("js/sw-utils.js");
 
 const STATIC_CACHE = "satic-v1";
